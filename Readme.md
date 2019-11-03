@@ -4,4 +4,5 @@
 
 # Содержание
 1 [Документация](./Documents)  
-1.1 [Требования](./Documents/Requirements.md)
+1.1 [Требования](./Documents/Requirements.md)  
+1.2 [Диаграммы](./Documents/Diagram/Readme.md)

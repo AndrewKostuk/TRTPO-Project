@@ -1,3 +1,4 @@
 # UML Диаграммы
 
-1 [Use case](./Use%20Case/Readme.md) 
+1 [Диаграмма вариантов использования](./Use%20Case/Readme.md)   
+2 [Диаграммы активностей](./Activity.md)

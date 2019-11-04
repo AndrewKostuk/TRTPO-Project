@@ -18,4 +18,4 @@
 <a name="3"/>
 
 # 3. Найти задачу
-![Диаграмма последовательностей 3](../../Images/diagrams/FindSequence.jpg)
+![Диаграмма последовательностей 3](../../Images/diagrams/FixedFindSequence.jpg)

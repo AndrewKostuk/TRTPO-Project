@@ -8,12 +8,12 @@
 <a name="1"/>
 
 # 1. Добавить задачу 
-![Диаграмма последовательностей 1](../../Images/diagrams/AddSequence.jpg)
+![Диаграмма последовательностей 1](../../Images/diagrams/FixedAddSeq.jpg)
 
 <a name="2"/>
 
 # 2. Удалить задачу
-![Диаграмма последовательностей 2](../../Images/diagrams/DeleteSeq.jpg)
+![Диаграмма последовательностей 2](../../Images/diagrams/FixedDeleteSeq.jpg)
 
 <a name="3"/>
 

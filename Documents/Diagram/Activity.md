@@ -13,9 +13,9 @@
 <a name="2"/>
 
 # 2. Удалить задачу
-![Диаграмма активностей 2](../../Images/diagrams/DeleteTask.jpg)
+![Диаграмма активностей 2](../../Images/diagrams/FixedDeleteTaskActivity.jpg)
 
 <a name="3"/>
 
 # 3. Найти задачу
-![Диаграмма активностей 3](../../Images/diagrams/FindTask.jpg)
+![Диаграмма активностей 3](../../Images/diagrams/FixedFindTaskActivity.jpg)

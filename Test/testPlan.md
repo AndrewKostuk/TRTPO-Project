@@ -78,7 +78,7 @@
 
 <a name="6"></a>
 ## 6. Представление результатов
-Результаты тестирования представлены в [документе](https://github.com/AndrewKostuk/TRTPO-Project/Test/Test%20results.md).
+Результаты тестирования представлены в [документе](https://github.com/AndrewKostuk/TRTPO-Project/Test/testResults.md).
 
 <a name="7"></a>
 ## 7. Вывод

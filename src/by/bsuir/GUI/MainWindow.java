@@ -53,8 +53,15 @@ public class MainWindow extends Application {
         DateGUI dgui2 = new DateGUI(calendar.getCalendar().get(1));
 
         VBox allCalendar = new VBox(4);
-        allCalendar.getChildren().addAll(dgui1.getPane(), dgui2.getPane());
 
+
+        calendar.addNewDate();
+        DateGUI dgui3 = new DateGUI(calendar.getCalendar().get(2));
+
+        calendar.addNewDate();
+        DateGUI dgui4 = new DateGUI(calendar.getCalendar().get(3));
+
+        allCalendar.getChildren().addAll(dgui1.getPane(), dgui2.getPane(), dgui3.getPane(), dgui4.getPane());
         /*Label dateLabel = new Label("    "+Integer.toString(calendar.getCalendar().get(0).getDay()) + "\n" +
                 months[calendar.getCalendar().get(0).getMonth()]);
 
@@ -107,8 +114,8 @@ public class MainWindow extends Application {
         Scene scene = new Scene(allCalendar);
         stage.setScene(scene);
         stage.setTitle("StartWindow");
-        stage.setWidth(300);
-        stage.setHeight(250);
+        stage.setWidth(500);
+        stage.setHeight(400);
         stage.show();
     }
 }
